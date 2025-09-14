@@ -1,0 +1,14 @@
+Vad är skillnaden mellan IaaS, PaaS och SaaS?
+IaaS erbjuder virtualiserade beräknings-,  lagrings-, och/eller nätverksresurser som tjänst, PaaS erbjuder utvecklingsplattformar som tjänst och SaaS erbjuder mjukvara för slutanvändare som tjänst.
+
+Vad gör Git och vad är GitHub?
+Git är ett versionshanteringssystem för Git-repositorier och GitHub är en plattform för att hantera och kollaborera på Git-repositorier.
+
+Vad är ett informationssystem?
+Ett informationssystem är ett system som behandlar data och som kanske också styrs av användarangiven eller på annat vis insamlad data.
+
+Vad är CIA-triaden?
+CIA är en förkortning som, översatt till svenska, står för konfidentialitet, integritet och tillgänglighet, och som rör information, syftande på att information ska vara åtkomlig endast för behöriga, behållas oförändrad och vara tillgänglig.
+
+Vad är Continuous Integration (CI)?
+CI är kontinuerlig integration av källkod på så vis att kodbasen den integreras i hålls stabil.
